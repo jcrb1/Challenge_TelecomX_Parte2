@@ -6,19 +6,20 @@
 Se utilizo un libro de Google Colab para realizar el análisis de datos, así como un archivo tipo csv el cual contenia los datos a analizar.
 
 3. Descripción del proceso de preparación de los datos:
-Clasificación de las variables en categóricas y numéricas.
+
+- Clasificación de las variables en categóricas y numéricas.
 <img width="603" height="679" alt="image" src="https://github.com/user-attachments/assets/b3e249cc-438d-4087-b190-27a8fee3fba9" />
 
 
-Etapas de normalización o codificación.
+- Etapas de normalización o codificación.
 <img width="1069" height="400" alt="image" src="https://github.com/user-attachments/assets/79d8c9c9-b62b-4850-8ee8-92062df6e1ab" />
 
 
-Separación de los datos en conjuntos de entrenamiento y prueba.
+- Separación de los datos en conjuntos de entrenamiento y prueba.
 <img width="982" height="720" alt="image" src="https://github.com/user-attachments/assets/f2712e9b-f1e3-41fe-a830-e70c7386b588" />
 
 
-Justificaciones para las decisiones tomadas durante la modelización.
+- Justificaciones para las decisiones tomadas durante la modelización.
 <img width="878" height="390" alt="image" src="https://github.com/user-attachments/assets/5ca8696d-6bc0-47ce-ab12-a787694714d9" />
 
 
@@ -33,3 +34,6 @@ Justificaciones para las decisiones tomadas durante la modelización.
 
 
 5. Instrucciones para ejecutar el cuaderno
+
+Acceder al archivo o notebook, seleccionar donde indica "Entorno de ejecución" y despues dar click en "Ejecutar todo", lo cuál mostrara todos los datos obtenidos del challenge.
+l<img width="1342" height="645" alt="image" src="https://github.com/user-attachments/assets/6e3b419d-e04c-438a-bf12-9d1593ae5bdc" />
