@@ -6,7 +6,6 @@
 Se utilizo un libro de Google Colab para realizar el análisis de datos, así como un archivo tipo csv el cual contenia los datos a analizar.
 
 3. Descripción del proceso de preparación de los datos:
-
 - Clasificación de las variables en categóricas y numéricas.
 <img width="603" height="679" alt="image" src="https://github.com/user-attachments/assets/b3e249cc-438d-4087-b190-27a8fee3fba9" />
 
@@ -34,7 +33,6 @@ Se utilizo un libro de Google Colab para realizar el análisis de datos, así co
 
 
 5. Instrucciones para ejecutar el cuaderno
-
 - Acceder al archivo o notebook, seleccionar donde indica "Entorno de ejecución" y despues dar click en "Ejecutar todo", lo cuál mostrara todos los datos obtenidos del challenge.
 l<img width="1342" height="645" alt="image" src="https://github.com/user-attachments/assets/6e3b419d-e04c-438a-bf12-9d1593ae5bdc" />
 
@@ -45,14 +43,25 @@ En el icono de una carpeta o folder dar click, luego dar click en el icono de un
 
 - Bibliotecas utilizadas para el análisis de datos:
 import pandas as pd
+
 import matplotlib.pyplot as plt
+
 import seaborn as sns
+
 from imblearn.over_sampling import SMOTE
+
 from sklearn.model_selection import train_test_split
+
 from sklearn.preprocessing import StandardScaler
+
 from sklearn.linear_model import LogisticRegression
+
 from sklearn.metrics import classification_report, confusion_matrix, roc_auc_score, ConfusionMatrixDisplay
+
 from sklearn.model_selection import train_test_split
+
 from sklearn.metrics import classification_report, roc_auc_score
+
 from sklearn.ensemble import RandomForestClassifier
+
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, confusion_matrix, ConfusionMatrixDisplay
