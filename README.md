@@ -22,6 +22,7 @@ Se utilizo un libro de Google Colab para realizar el análisis de datos, así co
 <img width="878" height="390" alt="image" src="https://github.com/user-attachments/assets/5ca8696d-6bc0-47ce-ab12-a787694714d9" />
 
 
+
 4. Ejemplos de gráficos e insights obtenidos durante el análisis exploratorio de datos (EDA).
 <img width="715" height="576" alt="image" src="https://github.com/user-attachments/assets/bcdce56b-91fd-4563-8d16-5b83cc996b1f" />
 
@@ -30,6 +31,7 @@ Se utilizo un libro de Google Colab para realizar el análisis de datos, así co
 <img width="949" height="590" alt="image" src="https://github.com/user-attachments/assets/731e1e6e-3a0b-4e81-a510-24b2e69258a6" />
 
 <img width="938" height="682" alt="image" src="https://github.com/user-attachments/assets/bb2d3e22-6f8a-4b76-87f5-619b23c37c8f" />
+
 
 
 5. Instrucciones para ejecutar el cuaderno
