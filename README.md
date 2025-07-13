@@ -35,5 +35,24 @@ Se utilizo un libro de Google Colab para realizar el análisis de datos, así co
 
 5. Instrucciones para ejecutar el cuaderno
 
-Acceder al archivo o notebook, seleccionar donde indica "Entorno de ejecución" y despues dar click en "Ejecutar todo", lo cuál mostrara todos los datos obtenidos del challenge.
+- Acceder al archivo o notebook, seleccionar donde indica "Entorno de ejecución" y despues dar click en "Ejecutar todo", lo cuál mostrara todos los datos obtenidos del challenge.
 l<img width="1342" height="645" alt="image" src="https://github.com/user-attachments/assets/6e3b419d-e04c-438a-bf12-9d1593ae5bdc" />
+
+- Como cargar los datos al cuaderno:
+En el icono de una carpeta o folder dar click, luego dar click en el icono de una pagina con una flecha apuntando hacia arriba llamado "Cargar archivos de almacenamiento de sesión" o ubicar el puntero encima del icono para identificar el nombre.
+<img width="422" height="449" alt="image" src="https://github.com/user-attachments/assets/b1757b72-35e2-44ce-91d8-514565a383ec" />
+
+
+- Bibliotecas utilizadas para el análisis de datos:
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+from imblearn.over_sampling import SMOTE
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import classification_report, confusion_matrix, roc_auc_score, ConfusionMatrixDisplay
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import classification_report, roc_auc_score
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, confusion_matrix, ConfusionMatrixDisplay
